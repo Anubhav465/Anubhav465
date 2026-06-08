@@ -1,36 +1,7 @@
-<<<<<<< HEAD
-<!--Hi, I'm Anubhav 👋
-
-🎓 AI/ML Engineering Student
-💡 Interested in Machine Learning, Generative AI & Real-World Problem Solving
-📍 India
-
-🚀 About Me
-
-I am an AI/ML engineering student passionate about building intelligent systems and exploring Generative AI.
-I enjoy applying machine learning concepts to solve practical problems and continuously improving my skills through projects and research.
-
-🌱 Currently learning: Deep Learning, LLMs, and GenAI
-🧠 Strong in: Research & Analytical Thinking
-🎯 Goal: To build impactful AI solutions and contribute to innovative teams
-**Anubhav465/Anubhav465** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-=======
 # Hi there 👋, I'm Anubhav Paul
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&lines=AI%2FML+Engineer;Generative+AI+Developer;Building+Intelligent+Systems;RAG+%26+LLM+Enthusiast;Always+Learning+New+Technologies" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&lines=AI%2FML+Engineer;Generative+AI+Developer;Building+Intelligent+Systems;RAG+%26+LLM+Enthusiast;Machine+Learning+Enthusiast" />
 </p>
 
 <h3 align="center">🤖 AI/ML Engineer | Generative AI Developer | CSE (AI/ML) '27</h3>
@@ -39,89 +10,53 @@ Here are some ideas to get you started:
 
 ## 🧑‍💻 About Me
 
-* 🎓 B.Tech CSE (AI/ML) Student (2027)
+* 🎓 B.Tech Computer Science & Engineering (AI & ML) Student (2023–2027)
 * 🤖 Passionate about Artificial Intelligence, Machine Learning, and Generative AI
 * 🧠 Building intelligent systems using LLMs, RAG, NLP, and Machine Learning
-* 📊 Experienced in developing recommendation systems, chatbots, and AI-powered applications
 * 🚀 Love transforming data into practical AI solutions
 * 🔍 Constantly exploring advanced AI techniques and modern technologies
-* 💼 Open to AI/ML internships, research opportunities, and entry-level roles
+* 💼 Open to internships, research opportunities, and entry-level AI/ML roles
 
 ---
 
-## ⚡ Tech Stack & Tools
-
-### 🤖 Artificial Intelligence & Machine Learning
-
-<p>
-  <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch" />
-</p>
-
-**Machine Learning • Deep Learning • NLP • Generative AI • RAG • LLMs**
-
----
+## ⚡ Tech Stack & Skills
 
 ### 💻 Programming Languages
 
 <p>
-  <img src="https://skillicons.dev/icons?i=python,java,c,cpp,javascript" />
+  <img src="https://skillicons.dev/icons?i=python,java,c" />
 </p>
 
----
+### 🤖 AI / Machine Learning
 
-### 🧠 AI Frameworks & Libraries
-
-<p>
-  <img src="https://skillicons.dev/icons?i=python" />
-</p>
-
-**LangChain • Scikit-Learn • Pandas • NumPy • TensorFlow • NLP**
-
----
+* Machine Learning
+* Deep Learning
+* Natural Language Processing (NLP)
+* Retrieval-Augmented Generation (RAG)
+* LangChain
+* Recommendation Systems
 
 ### 🌐 Web Development
 
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,javascript,react,nodejs,express" />
+  <img src="https://skillicons.dev/icons?i=html,css,flask" />
 </p>
 
----
-
-### 🗄️ Database
+### 🗄️ Tools & Technologies
 
 <p>
-  <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgresql" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode" />
 </p>
 
 ---
 
-### ☁️ Cloud & Deployment
+## 🎯 Currently Learning
 
-<p>
-  <img src="https://skillicons.dev/icons?i=aws,vercel,github" />
-</p>
-
----
-
-### 🛠️ Tools & Platforms
-
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman" />
-</p>
-
----
-
-## 🎯 Currently Learning & Growing
-
-<p align="center">
-  🤖 Advanced RAG • 🧠 Agentic AI • 📊 MLOps • ☁️ Cloud AI
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Focus-Generative_AI-blue?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Learning-Agentic_AI-green?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Building-RAG_Systems-orange?style=for-the-badge" />
-</p>
+* 🤖 Advanced RAG Systems
+* 🧠 Large Language Models (LLMs)
+* ⚡ Generative AI
+* 📊 Advanced Machine Learning
+* ☁️ AI Deployment & Cloud Technologies
 
 ---
 
@@ -129,15 +64,15 @@ Here are some ideas to get you started:
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&theme=tokyonight&show_icons=true&hide_border=false" />
+<img src="https://github-readme-stats.vercel.app/api?username=Anubhav465&theme=tokyonight&show_icons=true" />
 
 <br/>
 
-<img src="https://streak-stats.demolab.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=false" />
+<img src="https://streak-stats.demolab.com/?user=Anubhav465&theme=tokyonight" />
 
 <br/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&theme=tokyonight&layout=compact&hide_border=false" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anubhav465&theme=tokyonight&layout=compact" />
 
 </div>
 
@@ -145,39 +80,36 @@ Here are some ideas to get you started:
 
 ## 🚀 Featured Projects
 
-### 🔹 AI Chatbot
+### 🔹 Hybrid Semantic Search & RAG System
 
-* 🤖 Conversational AI using LLMs
-* 💬 Context-aware responses
-* 🔍 Integrated knowledge retrieval
-* ⚡ Built with LangChain & Python
+* 📚 YouTube Transcript-Based Knowledge Retrieval
+* 🧠 LLM-Powered Question Answering
+* 🔎 Semantic Search
+* ⚡ Advanced RAG Pipeline
 
----
+### 🔹 Recommendation System
 
-### 🔹 RAG-Based Question Answering System
+* 🎯 Personalized Recommendations
+* 📊 Machine Learning Algorithms
+* 📈 Data-Driven Decision Making
 
-* 📚 Retrieval-Augmented Generation
-* 🔎 Semantic search and document retrieval
-* 🧠 LLM-powered intelligent responses
-* 🚀 Scalable architecture
+### 🔹 Car Price Prediction
 
----
+* 🚗 Machine Learning Prediction Model
+* 📉 Data Analysis & Feature Engineering
+* 🤖 Regression Techniques
 
-### 🔹 Recommendation Engine
+### 🔹 Home Bakery Website
 
-* 🎯 Personalized recommendations
-* 📊 Machine Learning algorithms
-* 📈 Data-driven insights
-* ⚡ Real-world problem solving
+* 🌐 Client Project
+* 📱 Responsive Design
+* ⚡ User-Friendly Interface
 
----
+### 🔹 Makeup Artist Website
 
-### 🔹 NLP Projects
-
-* 📝 Text Classification
-* 😊 Sentiment Analysis
-* 🔍 Information Extraction
-* 🤖 Natural Language Processing Applications
+* 🎨 Client Project
+* 📱 Responsive UI
+* 🚀 Business Website Solution
 
 ---
 
@@ -193,10 +125,19 @@ Here are some ideas to get you started:
 
 ---
 
+## 🏆 Achievements & Activities
+
+* 🚀 Participated in Startup Competition
+* 💡 Participated in Smart India Hackathon (SIH)
+* 🎨 Participated in Painting Competitions
+* 🤝 Strong Leadership & Teamwork Skills
+
+---
+
 ## 📈 Contribution Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=tokyo-night&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Anubhav465&theme=tokyo-night&hide_border=true" />
 </p>
 
 ---
@@ -205,15 +146,15 @@ Here are some ideas to get you started:
 
 <p align="center">
 
-<a href="mailto:anubhavpaul465@gmail.com">
+<a href="mailto:anubhavpaulofficial@gmail.com">
   <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 
-<a href="https://www.linkedin.com/in/anubhav-paul">
+<a href="https://www.linkedin.com/in/anubhav-paul-a8611a277/">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
-<a href="https://github.com/YOUR_GITHUB_USERNAME">
+<a href="https://github.com/Anubhav465">
   <img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github" />
 </a>
 
@@ -223,17 +164,10 @@ Here are some ideas to get you started:
 
 ## 💡 Fun Fact
 
-⚡ I believe the best way to learn AI is by building real-world projects and solving practical problems.
-
----
-
-## 🌟 Career Objective
-
-I aspire to become an AI/ML Engineer specializing in Machine Learning, Generative AI, and Intelligent Systems. My goal is to build scalable AI solutions that create meaningful impact and solve real-world challenges.
+⚡ I enjoy building AI systems, solving real-world problems, photography, and video editing.
 
 ---
 
 <p align="center">
 ✨ Thanks for visiting my profile ✨
 </p>
->>>>>>> 058ff18 (Add profile README)
